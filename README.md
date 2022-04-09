@@ -1,2 +1,3 @@
-# Simple-navigation-bar
-learning phases
+# 
+first simple project I completed
+
